@@ -61,32 +61,68 @@ The dashboard enables HR leaders and executives to:
 ---
 
 ## Key Insights
+ 
+### ⭐ Critical Insight: Compensation is not consistently aligned with experience and location  
+While average compensation is approximately **$170K**, significant variation exists across experience levels and locations, indicating inconsistencies in compensation structure.  
 
-Analysis of the workforce dataset revealed several key organisational insights:
+**Implication:**  
+Potential pay inequity and misalignment with market conditions may impact employee satisfaction and retention.  
 
-- The organisation currently manages **1,000 employees** across multiple job functions and departments.
-- Average employee compensation is approximately **$170K**, with an average base salary of **$135K**.
-- Employees with **6–10 years of service earn the highest average compensation**, suggesting mid-career professionals are the most financially rewarded.
-- Executive roles show significantly higher salary dispersion compared to junior and mid-level employees.
-- Standard and Premium benefit packages account for **over 65% of employee benefits**, indicating strong employee reliance on structured benefits programs.
-- Cost-of-living adjustments show that employees in **San Francisco and New York receive significantly higher adjusted compensation** compared to other locations.
+### 1. Mid-career employees receive the highest compensation  
+Employees with **6–10 years of service** earn the highest average compensation compared to other tenure groups.  
+
+**Implication:**  
+Compensation strategy appears to favour mid-level talent, potentially creating gaps in retention for junior and senior employees.  
+
+### 2. Executive roles show high salary dispersion  
+Executive-level salaries display significantly wider variation compared to other job levels.  
+
+**Implication:**  
+Inconsistent compensation structures at senior levels may indicate a lack of standardisation in pay policies.  
+
+### 3. Benefits adoption is concentrated in structured packages  
+Standard and Premium benefit packages account for **over 65% of employee allocation**.  
+
+ **Implication:**  
+Employees rely heavily on structured benefit offerings, making benefits a key factor in employee satisfaction and retention.  
+
+### 4. Cost-of-living adjustments significantly impact compensation  
+Employees in **San Francisco and New York** receive notably higher adjusted salaries compared to other locations.  
+
+**Implication:**  
+Geographic disparities in compensation must be carefully managed to ensure fairness and competitiveness across regions.  
+
+### 5. Workforce composition supports growth but requires strategic planning  
+The organisation manages **1,000 employees** across multiple roles and departments.  
+
+**Implication:**  
+Workforce growth requires continuous monitoring to ensure alignment between hiring, compensation, and organisational strategy.  
+
+---
+## 💡 Recommended Actions  
+
+- Standardise **compensation frameworks** across experience levels and job roles  
+- Review **location-based salary adjustments** to ensure fairness and market competitiveness  
+- Optimise **benefits strategy** to align with employee preferences and retention goals  
+- Implement **regular compensation benchmarking** against industry standards  
+- Monitor workforce growth to ensure alignment with organisational capacity and strategy  
 
 ---
 
-## Business Impact
+## 📈 Business Impact  
 
-This dashboard provides leadership with a unified view of workforce and compensation data, enabling more informed HR and strategic decisions.
+This dashboard enables HR leadership to:
 
-The insights generated support:
+- Improve compensation fairness and transparency across the organisation  
+- Enhance employee retention through better-aligned pay and benefits  
+- Support strategic workforce planning and talent management  
+- Optimise decision-making using centralised, data-driven insights  
+- Strengthen organisational competitiveness in attracting and retaining talent  
 
-- **Improved compensation planning** aligned with employee experience and job roles.
-- **Better workforce planning** through analysis of tenure and hiring trends.
-- **Optimisation of employee benefits allocation** across the organisation.
-- **Location-based compensation adjustments** using cost-of-living insights.
-- **Data-driven HR decision-making** to support long-term organisational growth.
+**Potential Outcome:**  
+Applying these insights can improve employee satisfaction, reduce attrition risk, and support long-term organisational growth.  
 
-By centralising workforce data into a single interactive dashboard, Elevate Corp can improve reporting efficiency, strengthen talent management strategies, and enhance employee retention initiatives.
-
+👉 This enables a shift from fragmented HR reporting to **strategic workforce and compensation management**.  
 ---
 
 ## Project Files
