@@ -4,7 +4,7 @@ An interactive Tableau dashboard analysing workforce distribution, employee comp
 
 ---
 
-## Business Introduction
+## 📊Business Overview
 
 Elevate Corp is a progressive organisation focused on fostering sustainable growth through innovation and employee development.  
 
@@ -12,7 +12,7 @@ To remain competitive, the company aims to optimise talent management strategies
 
 ---
 
-## Business Challenge
+## ⚠️Business Challenge
 
 Elevate Corp faces challenges in effectively managing and analysing employee data across multiple HR systems. Key workforce information such as salary trends, employee benefits, job roles, and performance metrics is fragmented across different sources.
 
@@ -28,7 +28,7 @@ Without a consolidated analytics solution, HR leadership struggles to optimise c
 
 ---
 
-## Project Objective
+## 🎯Project Objective
 
 The goal of this project is to develop an interactive HR analytics dashboard that centralises workforce data and provides actionable insights into employee compensation and organisational trends.
 
@@ -122,7 +122,8 @@ This dashboard enables HR leadership to:
 **Potential Outcome:**  
 Applying these insights can improve employee satisfaction, reduce attrition risk, and support long-term organisational growth.  
 
-👉 This enables a shift from fragmented HR reporting to **strategic workforce and compensation management**.  
+👉 This enables a shift from fragmented HR reporting to **strategic workforce and compensation management**.
+
 ---
 
 ## Project Files
